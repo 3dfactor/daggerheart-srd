@@ -146,7 +146,7 @@ Naudodami „Žvėries formą“, pasirinkite savo pakopos arba žemesnės pakop
 
 (Lokys, bulius, briedis ir t. t.)
 
-> Stiprumas +1 | Gynyba +3 | Rankos ats. Stiprumas d10+4 fiz
+> Stiprumas +3 | Gynyba +1 | Rankos ats. Stiprumas d10+4 fiz
 > **Įgykite pranašumą:** orientuotis, ginti, gąsdinti
 
 ***Siautėjimas:*** Kai ant žalos kauliuko iškrenta 1, galite mesti d10 ir rezultatą pridėti prie žalos metimo. Be to, prieš atlikdami atakos metimą, galite pažymėti Stresą, kad gautumėte +1 priedą prie tos atakos meistriškumo.
@@ -246,7 +246,7 @@ Naudodami „Žvėries formą“, pasirinkite savo pakopos arba žemesnės pakop
 
 (Grifonas, Sfinksas ir kt.)
 
-> Stiprumas +2 | Gynyba +3 | Rankos ats. d10+8
+> Stiprumas +2 | Gynyba +3 | Rankos ats. d10+8 fiz
 
 ***Hibridų savybės:*** Norėdami virsti šia būtybe, pažymėkite papildomą Stresą. Pasirinkite bet kuriuos du žvėries formos variantus iš 1-2 pakopų. Iš viso iš šių variantų pasirinkite keturis privalumus ir dvi savybes.
 
