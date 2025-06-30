@@ -1,0 +1,12 @@
+{
+  "editor:context-menu": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "J"
+    }
+  ],
+  "switcher:open": [],
+  "editor:toggle-italics": []
+}

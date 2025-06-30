@@ -6,12 +6,12 @@ Your character’s community grants them a **community feature.** Each community
 
 **The 9 Communities are:**
 
-- [Highborne](../communities/Highborne.md)
-- [Loreborne](../communities/Loreborne.md)
-- [Orderborne](../communities/Orderborne.md)
-- [Ridgeborne](../communities/Ridgeborne.md)
-- [Seaborne](../communities/Seaborne.md)
-- [Slyborne](../communities/Slyborne.md)
-- [Underborne](../communities/Underborne.md)
-- [Wanderborne](../communities/Wanderborne.md)
-- [Wildborne](../communities/Wildborne.md)
+- [Aukstuomene](Aukstuomene.md)
+- [Sviesuomene](Sviesuomene.md)
+- [Tvarkieciai](Tvarkieciai.md)
+- [Kalnieciai](Kalnieciai.md)
+- [Jurininkai](Jurininkai.md)
+- [Klastunai](Klastunai.md)
+- [Urviniai](Urviniai.md)
+- [Klajokliai](Klajokliai.md)
+- [Miskiniai](Miskiniai.md)

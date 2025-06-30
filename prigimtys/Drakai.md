@@ -1,0 +1,9 @@
+# DRAKAI
+
+Drakona resemble wingless dragons in humanoid form and possess a powerful elemental breath. All drakona have thick scales that provide excellent natural armor against both attacks and the forces of nature. They are large in size, ranging from 5 feet to 7 feet on average, with long sharp teeth. New teeth grow throughout a Drakona’s approximately 350-year lifespan, so they are never in danger of permanently losing an incisor. Unlike their dragon ancestors, drakona don’t have wings and can’t fly without magical aid. Members of this ancestry pass down the element of their breath through generations, though in rare cases, a drakona’s elemental power will differ from the rest of their family’s.
+
+Drakai primena humanoido formos besparnius drakonus ir turi galingą gamtos elementų alsavimą. Visi drakai turi storus žvynus, kurie suteikia puikius natūralius šarvus tiek nuo atakų, tiek nuo gamtos elementų. Jie yra dideli, vidutiniškai nuo 1,5 iki 2,1 metro ilgio, su ilgais, aštriais dantimis. Nauji dantys pastoviai atauga per visus 350 drakų gyvenimo metus, todėl jiems niekada negresia pavojus visam laikui prarasti dantis. Skirtingai nei jų protėviai drakonai, drakai neturi sparnų ir negali skristi be burtų pagalbos. Šios prigimties atstovai perduoda savo alsavimo elementą iš kartos į kartą, nors retais atvejais drakai gimsta su kitokia gamtos elementų galia.
+## Kilmės bruožai
+***Žvynai:*** Jūsų žvynai veikia kaip natūrali apsauga. Jei patirtumėte didelę žalą, galite **pažymėti stresą**, kad pakeistumėte žalos tipą į vidutinę.
+
+***Elementinis alsavimas:*** Pasirinkite gamtos elementą savo alsavimui (pvz., elektrą, ugnį ar ledą). Šį alsavimą galite panaudoti prieš taikinį arba taikinių grupę labai arti, traktuodami jį kaip instinkto ginklą, kuris padaro **d8** magišką žalą, naudojant jūsų meistriškumą.

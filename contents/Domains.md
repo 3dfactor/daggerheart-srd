@@ -4,12 +4,12 @@ The Daggerheart core set includes 9 Domain Decks, each comprising a collection o
 
 **The 9 Domains are:**
 
-- [Arcana](../domains/Arcana.md)
-- [Blade](../domains/Blade.md)
-- [Bone](../domains/Bone.md)
-- [Codex](../domains/Codex.md)
-- [Grace](../domains/Grace.md)
-- [Midnight](../domains/Midnight.md)
-- [Sage](../domains/Sage.md)
-- [Splendor](../domains/Splendor.md)
-- [Valor](../domains/Valor.md)
+- [Arkana](Arkana.md)
+- [Asmenys](Asmenys.md)
+- [Kaulas](Kaulas.md)
+- [Kodeksas](Kodeksas.md)
+- [Grakstumas](Grakstumas.md)
+- [Vidurnaktis](Vidurnaktis.md)
+- [Ismintis](Ismintis.md)
+- [Spindesys](Spindesys.md)
+- [Drasa](Drasa.md)

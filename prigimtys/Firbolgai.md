@@ -1,0 +1,7 @@
+# FIRBOLGAI
+Firbolgai yra galvijų kilmės humanoidai, paprastai atpažįstami iš plačios nosies ir ilgų, atlėpusių ausų. Kai kurių veidai yra humanoido ir bizono, jaučio, karvės ar kitų galvijų mišinys. Kitų, dažnai vadinamų minotaurais, galvos visiškai panašios į galvijų. Tai aukšti ir raumeningi padarai su ilgomis uodegomis, siekiančiomis nuo maždaug 0.9 iki 2.1 metrų, pasižymintys nepaprasta jėga, nepriklausomai nuo amžiaus. Kai kurie firbolgai šią jėgą panaudoja puldami savo priešininkus bėgdami į juos - šis veiksmas ypač veiksmingas tiems, kurie turi vieną iš daugelio šios giminės atstovams būdingų ragų rūšių. Nors jų unikalios savybės gali skirtis, visi firbolgai yra apaugę kailiu, kuris gali būti prigesintos ir žemės atspalvių spalvos arba įvairių pastelinių spalvų, pavyzdžiui, švelniai rausvos ir mėlynos. Vidutiniškai firbolgai gyvena apie 150 metų.
+
+## Kilmės bruožai
+***Puolimas:*** Sėkmingai atlikus vikrumo metimą ir iš tolimo ar labai tolimo atstumo patekus į vieno ar daugiau taikinių rankos atstumą, galite **pažymėti stresą** ir padaryti **1d12** fizinės žalos visiems taikiniams, esantiems rankos atstumu.
+
+***Nepalaužiamas:*** Kai reikia žymėti stresą, meskite **d6**. Jei rezultatas 6, streso žymėti nereikia.
